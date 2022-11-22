@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\bin\Debug\net6.0\Exercise54.exe
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\bin\Debug\net6.0\Exercise54.deps.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\bin\Debug\net6.0\Exercise54.runtimeconfig.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\bin\Debug\net6.0\Exercise54.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\bin\Debug\net6.0\Exercise54.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\refint\Exercise54.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\Exercise54.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar8\Exercise54\obj\Debug\net6.0\ref\Exercise54.dll
